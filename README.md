@@ -1,0 +1,14 @@
+# Gianvito Rossi web scraped data 
+
+## About the website
+
+[Gianvito Rossi](https://www.gianvitorossi.com/) is an esteemed Italian shoe brand, founded in 2007 by the eponymous designer, son of legendary shoe designer Sergio Rossi. The designer, **Gianvito Rossi**, has proven his ability to create an impeccable, high-quality shoe using the finest and most luxurious materials. Despite being a relatively young company compared to its competitors, Gianvito Rossi has carved a formidable niche in the luxury footwear industry with its business model focused on the twin principles of iconic design and exceptional craftsmanship. The brand continually demonstrates its unwavering commitment to quality, making each pair of Gianvito Rossi shoes a testament to refined style and superior comfort. Though privately owned and hence not listed on any stock exchange, the brands impressive growth suggests a promising future. More about the brand can be found on its [Wikipedia page](https://en.wikipedia.org/wiki/Gianvito_Rossi).
+
+Some of the main competitors of **Gianvito Rossi** include [Manolo Blahnik](https://www.manoloblahnik.com/us), [Christian Louboutin](https://us.christianlouboutin.com/us_en/), [Jimmy Choo](https://us.jimmychoo.com/en/home) and [Stuart Weitzman](https://www.stuartweitzman.com/). These brands share similar business models, focusing on the high-end luxury market with their bespoke, handcrafted footwear collections. Each of these brands has differentiated themselves by imparting a unique design aesthetic. For example, **Manolo Blahnik**, named after the Spanish fashion designer, is famous for its stiletto heels and elegant, feminine designs. **Christian Louboutin**, known for its signature red lacquered soles, primarily focuses on womens luxury footwear and handbags. **Jimmy Choo**, based in the UK, is famous for its handcrafted shoes, handbags, and accessories. Meanwhile, **Stuart Weitzman** is recognized worldwide for its unique use of exotic materials in footwear design.
+
+Web scraping data from the **Gianvito Rossi** website could provide a multitude of valuable information, particularly when looking at prices and discounts. Businesses can gain insights into the brands pricing strategies and discount patterns, which can be pivotal in understanding the companys marketing tactics and sales performance. Furthermore, scraped data can be used to track price changes over time or in response to specific events, providing valuable context for the companys business decisions. For market competitors or market analysts, this information could influence their own pricing strategies or business models. Retailers and e-commerce platforms could also benefit from this data, as it could aid in product assortment planning, competitive positioning, and promotion planning.
+
+
+## Link to **dataset**
+
+[Gianvito Rossi dataset](https://www.databoutique.com/buy-data-list-subset/Gianvito%20Rossi%20web%20scraped%20data/r/recPsXa2MM6VTkVjp)
